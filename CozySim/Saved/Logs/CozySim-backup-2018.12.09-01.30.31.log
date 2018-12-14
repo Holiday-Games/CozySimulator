@@ -1,0 +1,928 @@
+﻿Log file open, 12/08/18 18:22:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CozySim
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.553988
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin MIDIDevice
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.060s to configure plugins.
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 780 Ti
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=DominicMisasi -epicuserid=9a7113778c324a5ebfbe2ee726f02543 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.09-01.22.05:956][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.09-01.22.05:956][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.09-01.22.05:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Engine.ini]
+[2018.12.09-01.22.05:956][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.09-01.22.05:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Engine.ini]
+[2018.12.09-01.22.05:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Engine.ini]
+[2018.12.09-01.22.05:956][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Engine.ini]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.09-01.22.05:957][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Engine.ini]
+[2018.12.09-01.22.05:957][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Engine.ini]
+[2018.12.09-01.22.05:964][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.09-01.22.05:964][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.09-01.22.05:965][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.09-01.22.05:990][  0]LogModuleManager: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2018.12.09-01.22.05:990][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.09-01.22.06:004][  0]LogHAL: Display: Platform has ~ 32 GB [34309677056 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.09-01.22.06:004][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.09-01.22.06:004][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2018.12.09-01.22.06:004][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.09-01.22.06:005][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.09-01.22.06:005][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Config/Windows/Engine.ini]
+[2018.12.09-01.22.06:005][  0]LogInit: Computer: NIC-WORKSTATION
+[2018.12.09-01.22.06:005][  0]LogInit: User: Dominic
+[2018.12.09-01.22.06:005][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.12.09-01.22.06:005][  0]LogInit: High frequency timer resolution =3.320316 MHz
+[2018.12.09-01.22.06:006][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.12.09-01.22.06:006][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.09-01.22.06:006][  0]LogMemory: Process Physical Memory: 88.09 MB used, 88.09 MB peak
+[2018.12.09-01.22.06:006][  0]LogMemory: Process Virtual Memory: 80.32 MB used, 80.32 MB peak
+[2018.12.09-01.22.06:006][  0]LogMemory: Physical Memory: 8514.05 MB used,  24206.21 MB free, 32720.26 MB total
+[2018.12.09-01.22.06:006][  0]LogMemory: Virtual Memory: 4645.61 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.09-01.22.06:027][  0]LogInit: Using OS detected language (en-US).
+[2018.12.09-01.22.06:028][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.09-01.22.06:028][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.09-01.22.06:472][  0]LogStreaming: Display: Took  0.445s to InitEngineTextLocalization.
+[2018.12.09-01.22.06:472][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.09-01.22.06:511][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.09-01.22.06:511][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.09-01.22.06:713][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-01.22.06:713][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.09-01.22.06:780][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2018.12.09-01.22.06:780][  0]LogD3D11RHI:       3029/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.09-01.22.06:782][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.09-01.22.06:782][  0]LogD3D11RHI:       0/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.09-01.22.06:782][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.09-01.22.06:791][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.09-01.22.06:792][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2018.12.09-01.22.06:792][  0]LogWindows: EnumDisplayDevices:
+[2018.12.09-01.22.06:792][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:1)
+[2018.12.09-01.22.06:792][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2018.12.09-01.22.06:792][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.12.09-01.22.06:792][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.12.09-01.22.06:793][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.09-01.22.06:793][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2018.12.09-01.22.06:793][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2018.12.09-01.22.06:793][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2018.12.09-01.22.06:793][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2018.12.09-01.22.06:838][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.09-01.22.06:855][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.09-01.22.07:191][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.09-01.22.07:208][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.09-01.22.07:225][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.09-01.22.07:243][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.09-01.22.07:261][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.09-01.22.07:278][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.09-01.22.07:294][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.09-01.22.07:311][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.09-01.22.07:319][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.09-01.22.07:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-01.22.07:425][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.09-01.22.07:498][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-01.22.07:498][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-01.22.07:528][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-01.22.07:528][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-01.22.07:543][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.09-01.22.07:558][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.09-01.22.07:573][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.09-01.22.07:588][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.09-01.22.07:640][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-01.22.07:641][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-01.22.07:641][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.09-01.22.07:701][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Intermediate/Shaders/WorkingDirectory/14776/).
+[2018.12.09-01.22.07:701][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mesht/AppData/Local/Temp/UnrealShaderWorkingDir/4566F18145A924B04F8F6D8B8B100675/'.
+[2018.12.09-01.22.07:704][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.09-01.22.07:704][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.09-01.22.07:704][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.09-01.22.08:293][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.09-01.22.08:347][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/mesht/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.09-01.22.08:348][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mesht/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.09-01.22.08:348][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.09-01.22.08:348][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.09-01.22.08:348][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-01.22.08:348][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.09-01.22.08:362][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.09-01.22.08:362][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-01.22.08:362][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.09-01.22.08:374][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mesht/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.09-01.22.08:374][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.09-01.22.08:374][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.09-01.22.08:410][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.09-01.22.08:412][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.09-01.22.08:413][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.09-01.22.08:513][  0]LogAssetRegistry: FAssetRegistry took 0.0447 seconds to start up
+[2018.12.09-01.22.08:885][  0]LogModuleManager: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2018.12.09-01.22.09:055][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.09-01.22.09:059][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.09-01.22.09:059][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.09-01.22.09:059][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.09-01.22.09:059][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.09-01.22.09:072][  0]LogNetVersion: CozySim 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3707586555)
+[2018.12.09-01.22.09:650][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.111984 seconds
+[2018.12.09-01.22.09:659][  0]LogUObjectArray: 38603 objects as part of root set at end of initial load.
+[2018.12.09-01.22.09:659][  0]LogUObjectAllocator: 6674976 out of 0 bytes used by permanent object pool.
+[2018.12.09-01.22.09:659][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.09-01.22.09:666][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.12.09-01.22.11:205][  0]LogSteamAudio: FSteamAudioModule Startup
+[2018.12.09-01.22.11:205][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2018.12.09-01.22.11:209][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2018.12.09-01.22.11:209][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2018.12.09-01.22.11:210][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2018.12.09-01.22.11:210][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2018.12.09-01.22.11:211][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2018.12.09-01.22.11:255][  0]SourceControl: Source control is disabled
+[2018.12.09-01.22.11:255][  0]SourceControl: Source control is disabled
+[2018.12.09-01.22.11:256][  0]SourceControl: Source control is disabled
+[2018.12.09-01.22.11:257][  0]SourceControl: Source control is disabled
+[2018.12.09-01.22.11:468][  0]LogOcInput: OculusInput pre-init called
+[2018.12.09-01.22.11:472][  0]LogLinker: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.12.09-01.22.11:473][  0]LogLinker: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.12.09-01.22.11:618][  0]LogEngine: Initializing Engine...
+[2018.12.09-01.22.11:619][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-01.22.11:620][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-01.22.11:620][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-01.22.11:620][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-01.22.11:620][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-01.22.11:896][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.09-01.22.11:917][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.09-01.22.11:941][  0]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2018.12.09-01.22.11:952][  0]LogInit: FAudioDevice initialized.
+[2018.12.09-01.22.11:952][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.09-01.22.12:052][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/mesht/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.09-01.22.12:068][  0]LogInit: Texture streaming: Enabled
+[2018.12.09-01.22.12:110][  0]LogInit: Using libcurl 7.55.1-DEV
+[2018.12.09-01.22.12:110][  0]LogInit:  - built for x86_64-pc-win32
+[2018.12.09-01.22.12:111][  0]LogInit:  - supports SSL with OpenSSL/1.0.2h
+[2018.12.09-01.22.12:111][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2018.12.09-01.22.12:111][  0]LogInit:  - other features:
+[2018.12.09-01.22.12:111][  0]LogInit:      CURL_VERSION_SSL
+[2018.12.09-01.22.12:111][  0]LogInit:      CURL_VERSION_LIBZ
+[2018.12.09-01.22.12:111][  0]LogInit:      CURL_VERSION_IPV6
+[2018.12.09-01.22.12:111][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2018.12.09-01.22.12:111][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2018.12.09-01.22.12:111][  0]LogInit:      CURL_VERSION_IDN
+[2018.12.09-01.22.12:111][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2018.12.09-01.22.12:111][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2018.12.09-01.22.12:111][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2018.12.09-01.22.12:111][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2018.12.09-01.22.12:111][  0]LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+[2018.12.09-01.22.12:111][  0]LogInit:  - LocalHostAddr = Default
+[2018.12.09-01.22.12:111][  0]LogInit:  - BufferSize = 65536
+[2018.12.09-01.22.12:125][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.09-01.22.12:143][  0]LogInit: Transaction tracking system initialized
+[2018.12.09-01.22.12:168][  0]BlueprintLog: New page: Editor Load
+[2018.12.09-01.22.12:255][  0]LocalizationService: Localization service is disabled
+[2018.12.09-01.22.12:510][  0]LogModuleManager: Warning: ModuleManager: Unable to load module 'TcpMessaging'  - 0 instances of that module name found.
+[2018.12.09-01.22.12:557][  0]LogModuleManager: Warning: ModuleManager: Unable to load module 'TcpMessaging'  - 0 instances of that module name found.
+[2018.12.09-01.22.13:279][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/' took 0.01s
+[2018.12.09-01.22.13:279][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.09-01.22.13:279][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.09-01.22.13:279][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.09-01.22.13:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-01.22.13:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-01.22.13:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-01.22.13:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-01.22.13:417][  0]SourceControl: Source control is disabled
+[2018.12.09-01.22.13:417][  0]Cmd: MAP LOAD FILE="E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/Levels/DevLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.09-01.22.13:418][  0]LightingResults: New page: Lighting Build
+[2018.12.09-01.22.13:420][  0]MapCheck: New page: Map Check
+[2018.12.09-01.22.13:420][  0]LightingResults: New page: Lighting Build
+[2018.12.09-01.22.13:470][  0]LogAIModule: Creating AISystem for world DevLevel
+[2018.12.09-01.22.13:471][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.09-01.22.13:505][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.09-01.22.13:505][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2018.12.09-01.22.13:505][  0]LogFileHelpers: Loading map 'DevLevel' took 0.088
+[2018.12.09-01.22.13:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-01.22.13:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-01.22.13:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-01.22.13:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-01.22.13:638][  0]LogCollectionManager: Loaded 0 collections in 0.001725 seconds
+[2018.12.09-01.22.13:655][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/Collections/' took 0.01s
+[2018.12.09-01.22.13:655][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/Developers/Dominic/Collections/' took 0.00s
+[2018.12.09-01.22.13:655][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/Collections/' took 0.00s
+[2018.12.09-01.22.13:655][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.09-01.22.13:671][  0]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2557 classes and 554 folders.
+[2018.12.09-01.22.13:683][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.09-01.22.13:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-01.22.13:727][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.09-01.22.13:736][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.09-01.22.13:752][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.09-01.22.13:754][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.09-01.22.13:760][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.09-01.22.13:840][  0]LogRenderer: Reallocating scene render targets to support 1044x560 Format 9 NumSamples 1 (Frame:1).
+[2018.12.09-01.22.13:941][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.09-01.22.13:942][  0]LogLoad: (Engine Initialization) Total time: 9.89 seconds
+[2018.12.09-01.22.13:942][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.09-01.22.13:952][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.09-01.22.13:975][  0]LogAssetRegistry: Asset discovery search completed in 5.4845 seconds
+[2018.12.09-01.22.13:978][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.09-01.22.13:979][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000170 seconds (updated 0 objects)
+[2018.12.09-01.22.13:981][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.12.09-01.22.14:004][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-01.22.44:578][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.22.49:452][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.22.51:954][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.23.13:812][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.23.41:096][144]LogActorFactory: Actor Factory created Cube
+[2018.12.09-01.23.41:291][163]LogActorFactory: Actor Factory created Cube
+[2018.12.09-01.23.42:800][329]Cmd: DELETE
+[2018.12.09-01.23.42:800][329]Cmd: ACTOR DELETE
+[2018.12.09-01.23.42:802][329]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.09-01.23.42:839][329]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.12.09-01.23.44:429][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.23.46:945][818]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.12.09-01.23.51:613][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.23.52:199][410]LogSteamAudio: Warning: Unable to load Phonon scene info: error loading info file.
+[2018.12.09-01.23.59:545][220]Cmd: TRANSACTION UNDO
+[2018.12.09-01.23.59:545][220]LogEditorTransaction: Undo Move Actors
+[2018.12.09-01.23.59:554][220]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.12.09-01.23.59:554][220]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2018.12.09-01.23.59:554][220]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.12.09-01.23.59:593][220]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-01.24.00:104][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.24.18:124][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-01.24.18:295][376]LogSavePackage: Moving 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/DevLevel81F0E6B343EEACD5DE10E39DF394A020.tmp' to 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/Levels/DevLevel.umap'
+[2018.12.09-01.24.28:231][523]LogSteamAudio: Warning: Unable to load Phonon scene info: error loading info file.
+[2018.12.09-01.25.02:456][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.25.02:539][635]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-01.25.02:555][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DevLevel.DevLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel' with GeneratedClass '/Game/Levels/DevLevel.DevLevel_C' with ClassGeneratedBy '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel'
+[2018.12.09-01.25.02:555][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-01.25.02:555][635]PIE: New page: PIE session: DevLevel (Dec 8, 2018, 11:25:02 AM)
+[2018.12.09-01.25.02:556][635]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevLevel
+[2018.12.09-01.25.02:559][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003539s)
+[2018.12.09-01.25.02:560][635]LogAIModule: Creating AISystem for world DevLevel
+[2018.12.09-01.25.02:560][635]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.12.09-01.25.02:560][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevel.DevLevel to /Game/Levels/UEDPIE_0_DevLevel.DevLevel (0.004693s)
+[2018.12.09-01.25.02:615][635]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2018.12.09-01.25.02:621][635]LogInit: FAudioDevice initialized.
+[2018.12.09-01.25.02:666][635]LogLoad: Game class is 'GameModeBase'
+[2018.12.09-01.25.02:668][635]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevLevel.DevLevel up for play (max tick rate 0) at 2018.12.08-18.25.02
+[2018.12.09-01.25.02:668][635]LogWorld: Bringing up level for play took: 0.000860
+[2018.12.09-01.25.02:672][635]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2018.12.09-01.25.02:673][635]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevLevel 0.594
+[2018.12.09-01.25.02:674][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DevLevel.DevLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel' with GeneratedClass '/Game/Levels/DevLevel.DevLevel_C' with ClassGeneratedBy '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel'
+[2018.12.09-01.25.05:964][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DevLevel.DevLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel' with GeneratedClass '/Game/Levels/DevLevel.DevLevel_C' with ClassGeneratedBy '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel'
+[2018.12.09-01.25.05:965][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-01.25.06:001][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DevLevel.DevLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel' with GeneratedClass '/Game/Levels/DevLevel.DevLevel_C' with ClassGeneratedBy '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel'
+[2018.12.09-01.25.06:038][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-01.25.06:577][ 89]LogEditorViewport: Clicking Background
+[2018.12.09-01.25.08:079][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.25.57:615][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.25.58:223][181]LogSlate: Took 0.009406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.09-01.26.06:645][182]Cmd: ACTOR SELECT ALL
+[2018.12.09-01.26.11:343][741]LogEditorViewport: Clicking Background
+[2018.12.09-01.26.13:571][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.26.24:623][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.26.29:660][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.26.37:464][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.26.37:581][694]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-01.26.37:597][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DevLevel.DevLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel' with GeneratedClass '/Game/Levels/DevLevel.DevLevel_C' with ClassGeneratedBy '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel'
+[2018.12.09-01.26.37:597][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-01.26.37:598][694]PIE: New page: PIE session: DevLevel (Dec 8, 2018, 11:26:37 AM)
+[2018.12.09-01.26.37:598][694]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevLevel
+[2018.12.09-01.26.37:601][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003016s)
+[2018.12.09-01.26.37:601][694]LogAIModule: Creating AISystem for world DevLevel
+[2018.12.09-01.26.37:602][694]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.12.09-01.26.37:602][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevel.DevLevel to /Game/Levels/UEDPIE_0_DevLevel.DevLevel (0.003856s)
+[2018.12.09-01.26.37:655][694]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2018.12.09-01.26.37:661][694]LogInit: FAudioDevice initialized.
+[2018.12.09-01.26.37:695][694]LogLoad: Game class is 'GameModeBase'
+[2018.12.09-01.26.37:696][694]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevLevel.DevLevel up for play (max tick rate 0) at 2018.12.08-18.26.37
+[2018.12.09-01.26.37:696][694]LogWorld: Bringing up level for play took: 0.000588
+[2018.12.09-01.26.37:697][694]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevLevel -0.382
+[2018.12.09-01.26.37:697][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DevLevel.DevLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel' with GeneratedClass '/Game/Levels/DevLevel.DevLevel_C' with ClassGeneratedBy '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel'
+[2018.12.09-01.26.40:897][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DevLevel.DevLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel' with GeneratedClass '/Game/Levels/DevLevel.DevLevel_C' with ClassGeneratedBy '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel'
+[2018.12.09-01.26.40:898][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-01.26.40:930][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DevLevel.DevLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel' with GeneratedClass '/Game/Levels/DevLevel.DevLevel_C' with ClassGeneratedBy '/Game/Levels/DevLevel.DevLevel:PersistentLevel.DevLevel'
+[2018.12.09-01.26.40:968][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-01.26.42:092][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-01.26.42:239][207]LogSavePackage: Moving 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/DevLevel3CDCC32A4E23C07140946F9211EC1396.tmp' to 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/Levels/DevLevel.umap'
+[2018.12.09-01.27.05:391][954]LogEditorViewport: Clicking Background
+[2018.12.09-01.27.18:050][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-01.27.18:203][465]LogSavePackage: Moving 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/DevLevel4F5ED8974530AB28102548B7EC35D1AD.tmp' to 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/Levels/DevLevel.umap'
+[2018.12.09-01.27.32:739][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-01.27.41:030][977]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.09-01.27.47:497][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CozyPlayerCharacter" FILE="E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/Player/CozyPlayerCharacter.uasset" SILENT=true
+[2018.12.09-01.27.47:514][749]LogSavePackage: Moving 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/CozyPlayerCharacter9F717AEC436D5DFAA93989B89CE8D83E.tmp' to 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/Player/CozyPlayerCharacter.uasset'
+[2018.12.09-01.30.28:156][363]LogSavePackage: Moving 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Saved/DevLevelF1FA26154A1784310F299B977AC5B369.tmp' to 'E:/Game-Development/HolidayGames/Projects/CozySim/Repo/CozySimulator/CozySim/Content/Levels/DevLevel.umap'
+[2018.12.09-01.30.28:939][440]LogSlate: Window 'CozySim - Unreal Editor' being destroyed
+[2018.12.09-01.30.29:106][441]Cmd: QUIT_EDITOR
+[2018.12.09-01.30.29:614][441]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.09-01.30.29:630][441]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.09-01.30.29:631][441]LogExit: Preparing to exit.
+[2018.12.09-01.30.29:669][441]LogExit: Editor shut down
+[2018.12.09-01.30.29:670][441]LogExit: Transaction tracking system shut down
+[2018.12.09-01.30.29:867][441]LogExit: Object subsystem successfully closed.
+[2018.12.09-01.30.29:888][441]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.09-01.30.29:893][441]LogD3D11RHI: Shutdown
+[2018.12.09-01.30.29:893][441]LogD3D11RHI: CleanupD3DDevice
+[2018.12.09-01.30.29:895][441]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.09-01.30.29:913][441]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (564)
+[2018.12.09-01.30.29:913][441]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (562)
+[2018.12.09-01.30.29:913][441]LogModuleManager: Shutting down and abandoning module SceneOutliner (560)
+[2018.12.09-01.30.29:913][441]LogModuleManager: Shutting down and abandoning module AddContentDialog (558)
+[2018.12.09-01.30.29:913][441]LogModuleManager: Shutting down and abandoning module WidgetCarousel (557)
+[2018.12.09-01.30.29:913][441]LogModuleManager: Shutting down and abandoning module EditorWidgets (554)
+[2018.12.09-01.30.29:913][441]LogModuleManager: Shutting down and abandoning module CollectionManager (552)
+[2018.12.09-01.30.29:913][441]LogModuleManager: Shutting down and abandoning module StatsViewer (550)
+[2018.12.09-01.30.29:913][441]LogModuleManager: Shutting down and abandoning module FoliageEdit (548)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module LandscapeEditor (546)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module MeshPaintMode (544)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (542)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module ActorPickerMode (540)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module GeometryMode (538)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module TextureAlignMode (536)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module BspMode (534)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (532)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (530)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module AutomationWorker (528)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module SteamAudioEditor (526)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (524)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (522)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module PlacementMode (521)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module MaterialEditor (520)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (516)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (514)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (512)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (510)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module WebMMedia (508)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (506)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (504)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module SequenceRecorder (503)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module SmartSnapping (488)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module SessionServices (486)
+[2018.12.09-01.30.29:914][441]LogModuleManager: Shutting down and abandoning module ViewportSnapping (484)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module ViewportInteraction (482)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module ClothPainter (480)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (479)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module LogVisualizer (476)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module IntroTutorials (474)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (473)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (470)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (468)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (466)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (464)
+[2018.12.09-01.30.29:915][441]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (462)
+[2018.12.09-01.30.30:846][441]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (459)
+[2018.12.09-01.30.30:846][441]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (457)
+[2018.12.09-01.30.30:846][441]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (455)
+[2018.12.09-01.30.30:846][441]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (453)
+[2018.12.09-01.30.30:846][441]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (451)
+[2018.12.09-01.30.30:846][441]LogModuleManager: Shutting down and abandoning module InputBindingEditor (449)
+[2018.12.09-01.30.30:846][441]LogModuleManager: Shutting down and abandoning module MergeActors (447)
+[2018.12.09-01.30.30:846][441]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (445)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module LocalizationService (444)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module HardwareTargeting (441)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (439)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module UndoHistory (437)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module XmlParser (435)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module Blutility (433)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (431)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (430)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (427)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module SettingsEditor (425)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module ProjectLauncher (423)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module SessionFrontend (421)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module ProfilerClient (419)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module DeviceManager (417)
+[2018.12.09-01.30.30:847][441]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (416)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module AutomationController (413)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module AutomationWindow (411)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module Layers (409)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (407)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module DetailCustomizations (405)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module PackagesDialog (403)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module Persona (401)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (400)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module AnimGraph (398)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module Kismet (395)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module GraphEditor (393)
+[2018.12.09-01.30.30:913][441]LogModuleManager: Shutting down and abandoning module ClassViewer (391)
+[2018.12.09-01.30.30:914][441]LogModuleManager: Shutting down and abandoning module Toolbox (389)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module ModuleUI (387)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module MovieSceneTools (385)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module OutputLog (383)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module GammaUI (381)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module Documentation (379)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (377)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module MovieScene (375)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (373)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module LauncherPlatform (371)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module AnalyticsET (369)
+[2018.12.09-01.30.30:915][441]LogModuleManager: Shutting down and abandoning module HTTP (368)
+[2018.12.09-01.30.30:915][441]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.09-01.30.30:915][441]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD416A75F-44B9-F056-0B42-6E9B0C41F802%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=3ed4cd184c79817fa41750a5749f3d64%7C9a7113778c324a5ebfbe2ee726f02543%7C220484ee-82e4-4c5b-bfac-464309ddc758&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.09-01.30.30:927][441]LogModuleManager: Shutting down and abandoning module SSL (367)
+[2018.12.09-01.30.30:928][441]LogModuleManager: Shutting down and abandoning module PortalServices (363)
+[2018.12.09-01.30.30:928][441]LogModuleManager: Shutting down and abandoning module PortalRpc (361)
+[2018.12.09-01.30.30:928][441]LogModuleManager: Shutting down and abandoning module MessagingRpc (359)
+[2018.12.09-01.30.30:928][441]LogModuleManager: Shutting down and abandoning module AIModule (357)
+[2018.12.09-01.30.30:928][441]LogModuleManager: Shutting down and abandoning module GameplayDebugger (356)
+[2018.12.09-01.30.30:928][441]LogModuleManager: Shutting down and abandoning module AITestSuite (354)
+[2018.12.09-01.30.30:928][441]LogModuleManager: Shutting down and abandoning module NavigationSystem (352)
+[2018.12.09-01.30.30:928][441]LogModuleManager: Shutting down and abandoning module DesktopPlatform (349)
+[2018.12.09-01.30.30:928][441]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (347)
+[2018.12.09-01.30.30:931][441]LogModuleManager: Shutting down and abandoning module ProfilerService (345)
+[2018.12.09-01.30.31:094][441]LogModuleManager: Shutting down and abandoning module TaskGraph (343)
+[2018.12.09-01.30.31:094][441]LogModuleManager: Shutting down and abandoning module SteamVRController (341)
+[2018.12.09-01.30.31:094][441]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (339)
+[2018.12.09-01.30.31:094][441]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (337)
+[2018.12.09-01.30.31:094][441]LogModuleManager: Shutting down and abandoning module OculusInput (335)
+[2018.12.09-01.30.31:095][441]LogModuleManager: Shutting down and abandoning module MIDIDevice (333)
+[2018.12.09-01.30.31:095][441]LogModuleManager: Shutting down and abandoning module EditableMesh (331)
+[2018.12.09-01.30.31:095][441]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (329)
+[2018.12.09-01.30.31:095][441]LogModuleManager: Shutting down and abandoning module CableComponent (327)
+[2018.12.09-01.30.31:095][441]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (325)
+[2018.12.09-01.30.31:095][441]LogModuleManager: Shutting down and abandoning module MediaCompositing (323)
+[2018.12.09-01.30.31:095][441]LogModuleManager: Shutting down and abandoning module LinearTimecode (321)
+[2018.12.09-01.30.31:095][441]LogModuleManager: Shutting down and abandoning module ImgMedia (319)
+[2018.12.09-01.30.31:098][441]LogModuleManager: Shutting down and abandoning module HTML5Networking (317)
+[2018.12.09-01.30.31:098][441]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (315)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (313)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module BackChannel (311)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module AppleVision (309)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (307)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module AppleImageUtils (305)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module AlembicImporter (303)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module AlembicLibrary (302)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module GeometryCache (301)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (300)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module VariantManagerContent (295)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (293)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (291)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module PluginBrowser (289)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (287)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module PolygonModeling (285)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module MeshEditor (283)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (281)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module CryptoKeys (279)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (277)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (275)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (273)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (271)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module GitSourceControl (269)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module SourceControl (268)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (265)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (263)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (261)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (259)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (257)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (255)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module Paper2DEditor (253)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module MeshPaint (252)
+[2018.12.09-01.30.31:099][441]LogModuleManager: Shutting down and abandoning module SteamAudio (249)
+[2018.12.09-01.30.31:099][441]LogSteamAudio: FSteamAudioModule Shutdown
+[2018.12.09-01.30.31:100][441]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (247)
+[2018.12.09-01.30.31:100][441]LogModuleManager: Shutting down and abandoning module OculusEditor (245)
+[2018.12.09-01.30.31:100][441]LogModuleManager: Shutting down and abandoning module ActorSequence (243)
+[2018.12.09-01.30.31:100][441]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (241)
+[2018.12.09-01.30.31:100][441]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (239)
+[2018.12.09-01.30.31:100][441]LogModuleManager: Shutting down and abandoning module FacialAnimation (237)
+[2018.12.09-01.30.31:100][441]LogModuleManager: Shutting down and abandoning module DataValidation (235)
+[2018.12.09-01.30.31:100][441]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (233)
+[2018.12.09-01.30.31:100][441]LogModuleManager: Shutting down and abandoning module LevelEditor (232)
+[2018.12.09-01.30.31:101][441]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (231)
+[2018.12.09-01.30.31:101][441]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (229)
+[2018.12.09-01.30.31:101][441]LogModuleManager: Shutting down and abandoning module MainFrame (227)
+[2018.12.09-01.30.31:101][441]LogModuleManager: Shutting down and abandoning module HotReload (226)
+[2018.12.09-01.30.31:101][441]LogModuleManager: Shutting down and abandoning module ContentBrowser (222)
+[2018.12.09-01.30.31:102][441]LogModuleManager: Shutting down and abandoning module TreeMap (220)
+[2018.12.09-01.30.31:102][441]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (217)
+[2018.12.09-01.30.31:102][441]LogModuleManager: Shutting down and abandoning module Paper2D (215)
+[2018.12.09-01.30.31:102][441]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (213)
+[2018.12.09-01.30.31:102][441]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (211)
+[2018.12.09-01.30.31:102][441]LogModuleManager: Shutting down and abandoning module WmfMedia (209)
+[2018.12.09-01.30.31:104][441]LogModuleManager: Shutting down and abandoning module Media (208)
+[2018.12.09-01.30.31:110][441]LogModuleManager: Shutting down and abandoning module PacketHandler (205)
+[2018.12.09-01.30.31:110][441]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (203)
+[2018.12.09-01.30.31:110][441]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (201)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module MediaAssets (199)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module Overlay (197)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module OverlayEditor (196)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module VREditor (193)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module StringTableEditor (191)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (189)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (187)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module FunctionalTesting (185)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (183)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (182)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module UMG (179)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module UMGEditor (178)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module Sequencer (177)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module MessageLog (174)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module SlateReflector (169)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module Slate (167)
+[2018.12.09-01.30.31:111][441]LogModuleManager: Shutting down and abandoning module EditorStyle (165)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module MRMesh (163)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (161)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (159)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module XAudio2 (157)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module Networking (155)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module Core (151)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module LevelSequence (149)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module KismetCompiler (147)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module MeshUtilities (145)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (144)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (143)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (142)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (140)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (138)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (136)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module MaterialBaking (132)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2018.12.09-01.30.31:113][441]LogModuleManager: Shutting down and abandoning module DerivedDataCache (125)
+[2018.12.09-01.30.31:194][441]LogDerivedDataCache: Shutdown
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module XGEController (123)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module TargetPlatform (121)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (120)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (118)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (116)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (114)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (112)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (110)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (108)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (106)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (104)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (102)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module ImageWrapper (101)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (98)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (96)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (94)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (92)
+[2018.12.09-01.30.31:195][441]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (90)
+[2018.12.09-01.30.31:196][441]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (88)
+[2018.12.09-01.30.31:196][441]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (86)
+[2018.12.09-01.30.31:196][441]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (84)
+[2018.12.09-01.30.31:196][441]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (82)
+[2018.12.09-01.30.31:196][441]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (80)
+[2018.12.09-01.30.31:197][441]LogModuleManager: Shutting down and abandoning module Messaging (78)
+[2018.12.09-01.30.31:197][441]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (76)
+[2018.12.09-01.30.31:198][441]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (74)
+[2018.12.09-01.30.31:198][441]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (72)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (70)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (68)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (66)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (64)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (62)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (60)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (58)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (56)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (54)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module InputCore (51)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module Settings (49)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module PhysXCooking (47)
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module SteamVR (44)
+[2018.12.09-01.30.31:204][441]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.09-01.30.31:204][441]LogModuleManager: Shutting down and abandoning module OculusHMD (42)
+[2018.12.09-01.30.31:205][441]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (40)
+[2018.12.09-01.30.31:205][441]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.09-01.30.31:205][441]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.09-01.30.31:205][441]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.09-01.30.31:205][441]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.09-01.30.31:205][441]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.09-01.30.31:205][441]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.09-01.30.31:205][441]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.09-01.30.31:205][441]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.09-01.30.31:206][441]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.09-01.30.31:224][441]LogExit: Exiting.
+[2018.12.09-01.30.31:248][441]Log file closed, 12/08/18 18:30:31
